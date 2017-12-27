@@ -1,0 +1,4 @@
+
+realtek:
+https://github.com/Ameba8195/Arduino/raw/master/release/package_realtek.com_ameba_index.json
+
